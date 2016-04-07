@@ -1,0 +1,29 @@
+{
+  "name": "comp392-assignment3",
+  "version": "5.0.1",
+  "description": "COMP392-Assignment 3 for Centennial College",
+  "main": "game.js",
+  "dependencies": {
+    "typescript": "^1.8.7"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^2.3.1",
+    "gulp-debug": "^2.1.2",
+    "gulp-inject": "^3.0.0",
+    "gulp-open": "^1.0.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-typescript": "^2.10.0",
+    "gulp-util": "^3.0.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/300833356COMP392/COMP392-A3.git"
+  },
+  "author": "Mohammed Ahmed, Joshua Collaco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/300833356COMP392/COMP392-A3/issues"
+  },
+  "homepage": "https://github.com/300833356COMP392/COMP392-A3#readme"
+}
